@@ -46,7 +46,7 @@
   },
   "private": true,
   "name": "project",
-  "description": "Source code Repository URL: https://github.com/Jwala10/Stock-Market.git",
+  "description": "Source code Repository URL: https://github.com/sangeethabasavaraj/StockMarketDashboard.git",
   "version": "1.0.0",
   "directories": {
     "test": "tests"
